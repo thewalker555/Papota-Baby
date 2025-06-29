@@ -3,6 +3,8 @@
 * Hypertrophy	65–75%	8–12 reps 5 sets… rest 1 to 1.5 minutes
 * Strength Power	80–90%	3–8 reps 3-5 sets… rest 1.5 to 2 minutes
 
+![Strength Contextual Image](Strength Contextual.png)
+
 ## 🟩 Day 1 & Day 3 - Pull + Hinge Focus
 
 * **Vertical Pull** - Pull-ups / Chin-ups
