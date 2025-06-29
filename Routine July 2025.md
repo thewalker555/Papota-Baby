@@ -29,13 +29,13 @@
 
 ## 🟦 Mobility & Core Strength Exercise List
 
-* **🧘 Mobility**:
+* **🤸🏼‍♂️ Mobility**:
   * Dead hang
   * Shoulder Dislocates
   * Jump (vertical, broad, depth)
-  * Couch stretch
+  * Couch (wall) stretch
 
-* **💪 Core Strength**:
+* **🧗 Core Strength**:
   * Obliques - Copenhagen plank, Side plank
   * Rotational - Band resisted trunk rotation
   * Obliques / Rotational - Bicycle crunch, Russian twsits
