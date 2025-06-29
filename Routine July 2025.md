@@ -1,14 +1,15 @@
-> Do 3-4 sets of 5-8 reps keeping 2-3 reps in reserve
+# Cues
 
-## 🟩 **Day 1 & Day 3 - Pull + Hinge Focus**
+- Hypertrophy	65–75%	8–12 reps 5 sets… rest 1 to 1.5 minutes
+- Strength Power	80–90%	3–8 reps 3-5 sets… rest 1.5 to 2 minutes
 
-### **Warm-Up**
+# Warm-Up
 
 * **🏃 Running** - 20 minutes
-* **🧘 Mobility** - Choose 2
-* **💪 Core Strength** - Choose 2
+* **🤸🏼‍♂️ Mobility** - Choose 2
+* **🧗 Core Strength** - Choose 2
 
-### **Main Work**
+## 🟩 **Day 1 & Day 3 - Pull + Hinge Focus**
 
 * **Vertical Pull** - Pull-ups / Chin-ups
 * **Horizontal Pull** - Inverted Rows / Dumbbell Rows
@@ -18,12 +19,6 @@
 ---
 
 ## 🟨 **Day 2 & Day 4 - Push + Squat Focus**
-
-### **Warm-Up**
-
-* **🏃 Running** - 20 minutes
-* **🧘 Mobility** - Choose 2
-* **💪 Core Strength** - Choose 2
 
 ### **Main Work**
 
