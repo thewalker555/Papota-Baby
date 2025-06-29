@@ -46,3 +46,9 @@
   * Rotational - Band resisted trunk rotation
   * Obliques / Rotational - Bicycle crunch, Russian twsits
   * Anterior Chain / Flexion - Plank rows, Hanging knee raises, L-Sit, Pike pulse, V-Ups
+
+ ---
+
+ ## 🟥 Day 5 Midweek Budokon
+
+ * 😂 **TL;DR**
