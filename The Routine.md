@@ -1,9 +1,13 @@
-# Key Training Adaptations General Cues 
+# Key Training Adaptations
 
-* Hypertrophy	65–75%	8–12 reps 5 sets… rest 1 to 1.5 minutes
-* Strength Power	80–90%	3–8 reps 3-5 sets… rest 1.5 to 2 minutes
+| Training Type | Intensity | Reps | Sets | Rest |
+|---------------|-----------|------|------|------|
+| Hypertrophy | 65–75% | 8–12 | 5-6 | 1 to 1.5 minutes |
+| Strength Power | 80–90% | 3–8 | 3-5 | 1.5 to 2 minutes |
 
-![Strength Contextual](Strength%20Contextual.png)
+<img src="papota_baby.png" alt="Papota Baby" width="35%">
+
+---
 
 ## 🟩 Day 1 & Day 3 - Pull + Hinge Focus
 
