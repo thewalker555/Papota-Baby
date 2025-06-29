@@ -45,5 +45,5 @@
 * **💪 Core Strength**:
   * Obliques - Copenhagen plank, Side plank
   * Rotational - Band resisted trunk rotation
-  * Obliques / Rotational - Bicycle Crunch
+  * Obliques / Rotational - Bicycle crunch, Russian twsits
   * Anterior Chain / Flexion - Plank rows, Hanging knee raises, L-Sit, V-Ups, Pike pulse
