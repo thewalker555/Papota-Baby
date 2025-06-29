@@ -2,10 +2,10 @@
 
 | Training Type | Intensity | Reps | Sets | Rest |
 |---------------|-----------|------|------|------|
-| Hypertrophy | 65–75% | 8–12 | 5-6 | 1 to 1.5 minutes |
-| Strength Power | 80–90% | 3–8 | 3-5 | 1.5 to 2 minutes |
+| Hypertrophy | 65–75% | 8–12 | 5-6 | 1-1.5 min |
+| Strength Power | 80–90% | 3–8 | 3-5 | 1.5-2 min |
 
-<img src="papota_baby.png" alt="Papota Baby" width="35%">
+<img src="papota_baby.png" alt="Papota Baby" width="50%">
 
 ---
 
@@ -33,7 +33,7 @@
 * **🤸🏼‍♂️ Mobility** - Choose 2
 * **🧗 Core Strength** - Choose 2
 
-### Choose 2
+### Choose List
 
 * **🤸🏼‍♂️ Mobility**:
   * Dead hang
