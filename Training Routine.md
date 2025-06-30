@@ -5,8 +5,6 @@
 | Hypertrophy | 65–75% | 8–12 | 5-6 | 1-1.5 min |
 | Strength Power | 80–90% | 3–8 | 3-5 | 1.5-2 min |
 
-<img src="papota_baby.png" alt="Papota Baby" width="50%">
-
 ---
 
 ## 🟩 Day 1 & Day 3 - Pull + Hinge Focus
