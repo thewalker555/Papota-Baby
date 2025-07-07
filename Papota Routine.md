@@ -1,5 +1,3 @@
-# Papota Routine
-
 | Training Type | Intensity | Reps | Sets | Rest |
 |---------------|-----------|------|------|------|
 | Hypertrophy | 65 - 75% | 8 - 12 | 5 - 6 | 1 - 1.5 min |
@@ -40,3 +38,7 @@
 ## 🟥 Day 5 Midweek Budokon
 
 - 😂 **TL;DR**
+
+---
+
+![Baby](https://raw.githubusercontent.com/thewalker555/Papota-Baby/refs/heads/main/images/papota_babies.png)
