@@ -1,10 +1,6 @@
-## Protocol update on 28th June 2025 for:
+# Supplement Stack
 
-* “HEAL MODE” (for Skin Ulcers, Systemic Inflammation, Mitochondrial Reset
-* Current 1-meal protocol
-* Optimal absorption
-
-### ☀️ **Morning (\~6–7 AM)** – *Brain Cognitive Focus + Energy + Mitochondria*
+## Morning (\~6–7 AM)
 
 | Supplement            | Dose         | Notes                                                                         |
 | --------------------- | ------------ | ----------------------------------------------------------------------------- |
@@ -17,20 +13,14 @@
 | Glycine               | 2 g          | Calms nervous system, supports fasting                                        |
 | Creatine Monohydrate  | 5 g          | Cell volumization. Synergizes with D3 and taurine for mitochondrial support   |
 
-> ✅ With bulletproof-style tea/coffee + pinch of salt
-
----
-
-### 🍲 **Main Meal (\~12–1 PM)** – *Max Absorption Opportunity*
+## Lunch (\~12–1 PM)
 
 | Supplement                   | Dose   | Notes                                                 |
 | ---------------------------- | ------ | ----------------------------------------------------- |
 | Silymarin (Milk Thistle)     | 140 mg | Take with meal for liver detox + absorption           |
 | Triphala                     | 450 mg | Gut motility, detox                                   |
 
----
-
-### 🏋️‍♂️ **Post-Workout (\~3–4 PM)** – *Skin Repair + Anabolic + Antioxidant Window*
+## Post-Workout (\~3–4 PM)
 
 | Supplement          | Dose     | Notes                                                                             |
 | ------------------- | -------- | --------------------------------------------------------------------------------- |
@@ -41,11 +31,7 @@
 | Taurine             | 2,000 mg | Muscle recovery, mitochondrial buffer                                             |
 | Omega-3 EPA/DHA     | 300 mg   | Blunts excess post-exercise inflammation, supports tissue remodeling and recovery |
 
-> ✅ Mix with orange juice or any citrus or coconut water + pinch of salt. Working out daily this is your best time for **collagen + vitamin C + trace minerals**.
-
----
-
-### 🌙 **Evening (\~7–8 PM)** – *Nervous System + Deep Tissue Repair*
+## Evening (\~7–8 PM)
 
 | Supplement              | Dose               | Notes                                                                                    |
 | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------- |
@@ -55,4 +41,4 @@
 | Glutamine               | 5 g                | Gut lining repair, anti-catabolic, immune and skin tissue support                        |
 | Omega-3 EPA/DHA         | 300 mg             | Supports overnight healing, stabilizes blood glucose & endothelial function during sleep |
 
-> ✅ Take with warm herbal tea (like chamomile or ginger-cinnamon) or plain water.
+> Update 28th June 2025
